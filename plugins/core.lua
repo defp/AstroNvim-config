@@ -101,4 +101,5 @@ return {
     end,
     dependencies = { "nvim-lua/plenary.nvim" },
   },
+  { 'projekt0n/github-nvim-theme' }
 }

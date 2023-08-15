@@ -18,8 +18,15 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "astrodark",
+  -- colorscheme = "astrodark",
   -- colorscheme = "sonokai",
+
+  -- colorscheme = "github_light",
+  colorscheme = "github_dark_dimmed",
+
+  -- colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
+  -- colorscheme = "catppuccin-latte",
+
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = { virtual_text = true, underline = true },
