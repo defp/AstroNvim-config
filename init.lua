@@ -40,6 +40,7 @@ return {
         allow_filetypes = { -- enable format on save for specified filetypes only
           "go",
           "python",
+          "typescript",
         },
         ignore_filetypes = { -- disable format on save for specified filetypes
           -- "python",
