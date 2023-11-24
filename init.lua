@@ -21,8 +21,9 @@ return {
   -- colorscheme = "astrodark",
   -- colorscheme = "sonokai",
 
-  colorscheme = "github_light",
+  -- colorscheme = "github_light",
   -- colorscheme = "github_dark_dimmed",
+  colorscheme = "github_dark_colorblind",
 
   -- colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
   -- colorscheme = "catppuccin-latte",
